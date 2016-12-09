@@ -1,0 +1,24 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Freecode camp basejump",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlimacsMusings/timestamp-microservice.git"
+  },
+  "author": "AlimacsMusings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlimacsMusings/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/AlimacsMusings/timestamp-microservice#readme",
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "express": "^4.14.0"
+  }
+}
